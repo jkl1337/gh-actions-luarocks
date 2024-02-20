@@ -1,5 +1,5 @@
 
-name: "Install LuaRocks"
+name: "Install LuaRocks (latest)"
 description: "Download, build, and install LuaRocks for use with scripts, tests, and more"
 
 branding:
